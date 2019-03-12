@@ -40,3 +40,39 @@
   background: #fff;
   z-index: 1;
 }
+#event .container .row div{
+  border: 2px solid #fff;
+  margin: 5px 0px;
+}
+#event .container .row div button{
+  border-radius: 5px;
+  background: #000;
+}
+#event .container .row div button a{
+  color: #993399;
+  color: #fff;
+}
+#event .container .row .a{
+  background: linear-gradient(to bottom right, #993399 16%, #ff99cc 80%);
+  color: #fff;
+}
+#event .container .row .b{
+  background: linear-gradient(to bottom right, #006699 8%, #99ffcc 91%);
+  color: #fff;
+}
+#event .container .row .c{
+   background: linear-gradient(to bottom right, #006600 8%, #99ffcc 91%);
+   color: #fff;
+}
+#event .container .row .d{
+   background: linear-gradient(to bottom right, #006600 8%, #99ffcc 91%);
+   color: #fff;
+}
+#event .container .row .e{
+  background: linear-gradient(to bottom right, #006699 8%, #99ffcc 91%);
+  color: #fff;
+}
+#event .container .row .f{
+  background: linear-gradient(to bottom right, #993399 16%, #ff99cc 80%);
+  color: #fff;
+}
