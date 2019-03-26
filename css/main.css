@@ -75,3 +75,6 @@
   background: linear-gradient(to bottom right, #993399 16%, #ff99cc 80%);
   color: #fff;
 }
+::placeholder{
+color: #5d5;
+}
